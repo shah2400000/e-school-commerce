@@ -1,0 +1,6 @@
+echo "# e-school-commerce" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/shah2400000/e-school-commerce.git
+git push -u origin master
